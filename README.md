@@ -1,5 +1,7 @@
 # papers
 
+This repository is to collect summaries of papers related to the research areas of KDE Lab.  The following is the list of research areas of interest:
+
 KDEでの論文紹介をまとめたリポジトリです。以下の主に以下のトピックを扱います。
 
 - data engineering / database
@@ -7,7 +9,21 @@ KDEでの論文紹介をまとめたリポジトリです。以下の主に以�
 - machine learning
 - software engineering / repository mining
 
-## 使い方
+## How to use? / 使い方
+
+Please make a post as an issue containing the paper's summary according to the following format:
+
+- Paper title
+- Authors (Affiliations~
+- Paper PDF / Link to the paper's landing page
+- Topic tags (one or more) (e.g., [data mining][outlier detection][distance-based outlier])
+- Summary of the paper
+  - What is it?
+  - How is it great compared to the related works?
+  - What are the key technical differentiators?
+  - How did they validate the advantages?
+  - Are there any discussions around the proposal?
+  - What are the next papers to read?
 
 興味のある論文の概要を issue として登録してください。
 以下の内容を含めてください。
